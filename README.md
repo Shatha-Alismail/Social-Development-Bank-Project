@@ -11,7 +11,7 @@ A capstone project for the Dig Data &amp; AI Bootcamp.
 - To provide free of interest Social Loans for low-income citizens, in order to help them overcome their financial difficulties.
 - To encourage savings for individuals and institutions in the Kingdom, and to find the appropriate tools to achieve this goal.
 - The Bank has 24 branches in different regions of the Kingdom of Saudi Arabia to deliver services efficiently to its citizens.”
-- **To see more about it click in the Blog**.(https://medium.com/@Avengers_Team/ml-capstone-project-social-development-bank-loans-2019-87f658bc8d18).
+
 
 
 
